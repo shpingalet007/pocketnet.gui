@@ -21,7 +21,7 @@
         "arch": "^2.2.0",
         "axios": "^0.21.1",
         "clone-deep": "^4.0.1",
-        "compression": "^1.7.4",
+        "compression": "^1.8.1",
         "deep-extend": "^0.6.0",
         "download-github-release": "^0.3.2",
         "express": "^4.17.1",
