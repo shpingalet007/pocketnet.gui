@@ -34,7 +34,7 @@
         "is-localhost-ip": "^2.0.0",
         "jsdom": "^7.2.2",
         "lambda-rate-limiter": "",
-        "lodash": "^4.17.15",
+        "lodash": "^4.17.23",
         "md5": "^2.3.0",
         "nedb": "^1.8.0",
         "node-autodetect-utf8-cp1251-cp866": "",
